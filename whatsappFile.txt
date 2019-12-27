@@ -1,0 +1,813 @@
+06/12/2019, 12:33 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+06/12/2019, 12:27 - Chibundu Com. Sci created group "C++ Programm.. CSC 300L"
+06/12/2019, 12:33 - Chibundu Com. Sci added you
+06/12/2019, 12:34 - You're now an admin
+06/12/2019, 12:50 - Chibundu Com. Sci changed this group's icon
+06/12/2019, 14:07 - Burette Chinweotito Okereke joined using this group's invite link
+06/12/2019, 14:07 - +234 813 973 7197 joined using this group's invite link
+06/12/2019, 14:10 - +234 807 572 5787 joined using this group's invite link
+06/12/2019, 14:11 - Kachi Com. Sci joined using this group's invite link
+06/12/2019, 14:14 - Jennifer Small-skirt joined using this group's invite link
+06/12/2019, 14:16 - Peace Csc joined using this group's invite link
+06/12/2019, 14:17 - Miracle Amaka-friend joined using this group's invite link
+06/12/2019, 14:22 - +234 903 548 3603 joined using this group's invite link
+06/12/2019, 14:27 - +234 816 564 6622 joined using this group's invite link
+06/12/2019, 14:28 - +234 818 365 9679 joined using this group's invite link
+06/12/2019, 14:38 - Sharon Csc joined using this group's invite link
+06/12/2019, 14:50 - +234 703 077 7365 joined using this group's invite link
+06/12/2019, 14:58 - +234 816 243 7308 joined using this group's invite link
+06/12/2019, 14:59 - Sylvia Com. Sci joined using this group's invite link
+06/12/2019, 15:09 - +234 807 902 3468 joined using this group's invite link
+06/12/2019, 15:10 - Pamela Ass_assin joined using this group's invite link
+06/12/2019, 15:18 - Sylvia Com. Sci: Hy
+06/12/2019, 15:19 - Sylvia Com. Sci: Good evening everyone
+06/12/2019, 15:19 - Jennifer Small-skirt: Evening daughter
+06/12/2019, 15:22 - Sylvia Com. Sci: 😨
+06/12/2019, 15:23 - Jennifer Small-skirt: Lol😂
+06/12/2019, 15:23 - Sylvia Com. Sci: Hwva
+06/12/2019, 15:25 - Jennifer Small-skirt: I dey
+06/12/2019, 16:13 - +234 905 757 0070 joined using this group's invite link
+06/12/2019, 16:39 - Didi UK-Friend joined using this group's invite link
+06/12/2019, 16:39 - Dennis mcDennis: 🙄😏
+06/12/2019, 16:40 - Burette Chinweotito Okereke: 👨🏾‍💻👨🏾‍💻👨🏾‍💻
+06/12/2019, 16:40 - Burette Chinweotito Okereke: My head wan burst cuz of too much coding
+06/12/2019, 16:40 - Dennis mcDennis: 😂
+06/12/2019, 16:41 - Burette Chinweotito Okereke: 🧠🧠🧠
+06/12/2019, 16:41 - Dennis mcDennis: Codeine marlian.
+06/12/2019, 16:41 - Burette Chinweotito Okereke: Somebody pour water on this
+06/12/2019, 16:41 - Burette Chinweotito Okereke: 👨🏾‍💻👨🏾‍💻👨🏾‍💻👨🏾‍💻👨🏾‍💻👨🏾‍💻
+Opooor
+06/12/2019, 16:42 - +234 815 505 0450 joined using this group's invite link
+06/12/2019, 16:45 - Chibundu Com. Sci: Pls let's be careful what we do here, Dr Mrs Olebara is also in the group
+06/12/2019, 17:13 - Jennifer Small-skirt: <Media omitted>
+06/12/2019, 17:18 - +234 808 477 6115 joined using this group's invite link
+06/12/2019, 17:39 - David Com. Sci joined using this group's invite link
+06/12/2019, 17:51 - Dennis mcDennis: Eureka Eureka....
+06/12/2019, 17:53 - Dennis mcDennis: Those that have submitted.. How nice was the number 2 question?
+06/12/2019, 17:58 - Uzo Com. Sci joined using this group's invite link
+06/12/2019, 18:04 - Chibundu Com. Sci: Wasn't nice
+06/12/2019, 18:07 - Dennis mcDennis: Such is life.
+06/12/2019, 18:07 - Dennis mcDennis: But last Last e no hard na just word play.
+06/12/2019, 18:08 - Dennis mcDennis: English dey hard us sometimes.
+06/12/2019, 18:12 - Chibundu Com. Sci: True, it's well
+06/12/2019, 18:24 - +234 817 331 4393 joined using this group's invite link
+06/12/2019, 18:33 - Chibundu Com. Sci: If someone is writing a c++ program and wants it to accept input rather than attach values to variables, pls what should be done?
+06/12/2019, 18:47 - +234 802 401 2669 joined using this group's invite link
+06/12/2019, 18:55 - +234 706 167 6874 joined using this group's invite link
+06/12/2019, 19:01 - Olebara Maxim Com. Sci joined using this group's invite link
+06/12/2019, 19:35 - Dennis mcDennis: To accept input is cin
+06/12/2019, 19:35 - Chibundu Com. Sci: How do you mean?
+06/12/2019, 19:37 - Dennis mcDennis: After using cout << "Enter your name:" ;
+06/12/2019, 19:38 - Dennis mcDennis: You then use cin to accept the input. E.g...
+06/12/2019, 19:38 - Dennis mcDennis: cin >> name ;
+06/12/2019, 19:39 - Dennis mcDennis: But you must have already declared a variable named name as a string.
+06/12/2019, 19:40 - Chibundu Com. Sci: That is: you mean this👇
+
+cout << "Enter your name:" ;
+
+cin >> name ;
+06/12/2019, 19:40 - Chibundu Com. Sci: Yea
+06/12/2019, 19:40 - Dennis mcDennis: 👍
+06/12/2019, 19:41 - Chibundu Com. Sci: Are there other ways of getting this
+06/12/2019, 19:41 - Amakanwa Com. Sci: 👍
+06/12/2019, 19:41 - Dennis mcDennis: Probably... But i don't know.
+06/12/2019, 19:41 - Amakanwa Com. Sci: Good evening everyone
+06/12/2019, 19:41 - Chibundu Com. Sci: Ok
+06/12/2019, 19:42 - Chibundu Com. Sci: Would try to find out
+06/12/2019, 19:43 - Dennis mcDennis: Thanks today. You are my angel.
+06/12/2019, 19:44 - Amakanwa Com. Sci: Angel Phynia or Ms Dennis ?
+06/12/2019, 19:45 - Dennis mcDennis: Both... 😂
+06/12/2019, 19:45 - Peace Csc: Mrs actually
+06/12/2019, 19:46 - Amakanwa Com. Sci: Lol
+06/12/2019, 19:46 - Amakanwa Com. Sci: Ewo ooo
+06/12/2019, 19:46 - Amakanwa Com. Sci: You are welcome ✌
+06/12/2019, 20:04 - Chibundu Com. Sci: Welcome to everyone, who was added to this group or came in through the invite link.
+
+This group as mandated by our Lecture and mother Dr Mrs Comfort Olebara Ph.d is a means through which we develop ourselves in C++ programming.
+ 
+With this in mind, let's bring up matter that relates to C++ programming language and other related languages. 
+So that las las, after school we no go carry last. We will have something tangible we would lay hands on as a skill for both income making and impacting of younger lives.
+
+Great Computer Scientist....
+
+God help us all
+06/12/2019, 20:11 - Dennis mcDennis: 😊.... Cool. 😎
+06/12/2019, 20:11 - Amakanwa Com. Sci: 👍
+06/12/2019, 20:12 - Peace Csc: 🤝
+06/12/2019, 20:27 - +234 903 284 9814 joined using this group's invite link
+06/12/2019, 20:52 - Chibundu Com. Sci: 👍
+06/12/2019, 21:01 - David Com. Sci: 😊
+06/12/2019, 21:08 - Burette Chinweotito Okereke: When asking C++ related questions, be sure to tag me. Its for your own good. 
+Better still, meet me in person let me tutor you well
+👨🏾‍💻👨🏾‍💻👨🏾‍💻👨🏾‍💻
+06/12/2019, 21:22 - Chibundu Com. Sci: Hmmmmmmm
+06/12/2019, 21:23 - Amakanwa Com. Sci: Error
+06/12/2019, 21:23 - Chibundu Com. Sci: 🤣
+06/12/2019, 21:29 - Chibundu Com. Sci changed the group description
+06/12/2019, 21:32 - Chibundu Com. Sci added Esther Ass. Cos. Rep, Vincent Com. Sci and +234 9019436096
+06/12/2019, 21:33 - +234 815 960 2626 joined using this group's invite link
+06/12/2019, 21:45 - Success Ass-asin Com. Sci joined using this group's invite link
+06/12/2019, 21:57 - +234 817 084 7328 joined using this group's invite link
+06/12/2019, 22:36 - +234 814 654 6390 joined using this group's invite link
+06/12/2019, 23:07 - +234 903 086 1331 joined using this group's invite link
+06/12/2019, 23:07 - Burette Chinweotito Okereke: ☹🤤
+07/12/2019, 00:03 - +234 906 998 3541 joined using this group's invite link
+07/12/2019, 02:17 - Ike Sunday Com. Sci changed this group's settings to allow only admins to edit this group's info
+07/12/2019, 08:46 - +234 802 228 2855 joined using this group's invite link
+07/12/2019, 15:24 - +234 907 065 1898 joined using this group's invite link
+07/12/2019, 16:40 - +234 808 147 6928 joined using this group's invite link
+07/12/2019, 19:43 - +234 9016493507 joined using this group's invite link
+07/12/2019, 23:42 - +234 806 003 9555 joined using this group's invite link
+09/12/2019, 12:10 - +234 812 008 0591 joined using this group's invite link
+12/12/2019, 21:14 - +234 808 147 6928 left
+13/12/2019, 13:04 - Dr. Mrs Olebara Comfort: 🤗😇 *Dr OLEBARA COMFORT C.* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=Dr_OLEBARA_COMFORT_C.
+13/12/2019, 13:16 - Jennifer Small-skirt: 🤗😇 *Anayochi ugochi Jennifer* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=Anayochi_ugochi_Jennifer
+13/12/2019, 13:19 - +234 906 998 3541: 🤗😇 *EGERE THANKGOD* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=EGERE_THANKGOD
+13/12/2019, 14:00 - Peace Csc: 🤗😇 *Achinike Peace Onyinyechi* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=Achinike_Peace_Onyinyechi
+13/12/2019, 14:06 - +234 817 084 7328: 🤗😇 *Lawrence uchenna nnanna* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=Lawrence_uchenna_nnanna
+13/12/2019, 14:21 - +234 906 998 3541: 🤗😇 *EGERE THANKGOD* has sent something special for you!! 
+
+💁 *Open Now to see!*
+👇👇🏻👇👇
+wow-nice.xyz/en/?u=EGERE_THANKGOD
+13/12/2019, 14:55 - Dennis mcDennis: 🙄
+13/12/2019, 18:55 - Henry Panadol: Look at this! The name is in red format and no phone number,
+13/12/2019, 18:56 - Henry Panadol: Look at this! The name is in white format and their is phone number
+13/12/2019, 18:57 - Dennis mcDennis: 🤨
+13/12/2019, 18:57 - Peace Csc: 🙄
+13/12/2019, 18:57 - Henry Panadol: Please if you know how to hide phone number and make your name appears in red format, please teach me
+13/12/2019, 18:58 - Peace Csc: Huncle, what are you talking about?
+13/12/2019, 18:59 - Henry Panadol: Look at Dr olebra's post, her name is in red format and no phone number
+
+Look at other peoples own, they names is in white format and their is phone number
+13/12/2019, 19:01 - Henry Panadol: Please if you know how to hide phone number and make your name appears in red format, please teach me
+13/12/2019, 19:01 - Henry Panadol: Dani's how far, do you have idea
+13/12/2019, 19:01 - +234 807 902 3468: Yeah I know
+13/12/2019, 19:01 - Peace Csc: Dennis, come and answer
+13/12/2019, 19:02 - Henry Panadol: Good, we will see in school on Monday
+13/12/2019, 19:02 - +234 807 902 3468: Ok
+13/12/2019, 19:12 - Dennis mcDennis: Henry don't you have her number saved on your phone?
+13/12/2019, 19:16 - Dennis mcDennis: I think for the color it's selected by what'sapp API...
+13/12/2019, 19:17 - Dennis mcDennis: ... But then if there are ways of changing it, then I hope you find it.
+13/12/2019, 19:18 - Henry Panadol: What of using your picture as emoji or stick and reply a post
+13/12/2019, 19:19 - Dennis mcDennis: You can create a sticker out of your photo and add it to your what'sapp stickers. There are apps for that on play store.
+13/12/2019, 19:21 - Dennis mcDennis: If you really need extra features for what'sapp you will have to use apps like gbwhatsapp or yowhatsapp... They allow many customization and extra features...
+13/12/2019, 19:23 - Dennis mcDennis: .... But what'sapp can block you for using apps like that because they are not secure.
+13/12/2019, 19:23 - Henry Panadol: Alright..... Straight to web now!
+13/12/2019, 19:51 - David Com. Sci: You saved the number on your phone 🤷🏻‍♂
+13/12/2019, 21:07 - Amakanwa Com. Sci: Lol
+13/12/2019, 21:08 - Amakanwa Com. Sci: 😂😂
+13/12/2019, 21:08 - Dennis mcDennis: 🙄
+13/12/2019, 22:05 - Dr. Mrs Olebara Comfort: Secret is in setting your status to private. Try that.
+14/12/2019, 07:26 - +234 9016493507: Thanks
+15/12/2019, 11:26 - Henry Panadol added Andy Com. Sci, Bonaventure Com. Sci, Burette Chinweotito Okereke, Clinton Com. Sci, Cynthia Com. Sci, Elizabeth Com. Sci, Godswill Com. Sci, Mary Jane Com. Sci, NATURAL, UJU Com. Sci, ZUBBY Class Rep, +1 (320) 200-1318, +234 701 132 8329, +234 706 773 1626, +234 802 806 8469, +234 803 181 4121, +234 803 436 9428, +234 803 783 2491, +234 806 310 4146, +234 806 781 6412, +234 807 837 1110, +234 809 606 0955, +234 810 434 4079, +234 810 455 4727, +234 810 794 6464, +234 810 844 8287, +234 812 450 6201, +234 813 020 9114, +234 813 037 0543, +234 813 200 5014, +234 813 313 3640, +234 813 586 9065, +234 814 011 1133, +234 814 166 0244, +234 815 632 4791, +234 816 250 0979, +234 816 343 1291, +234 816 558 5666, +234 818 179 3151, +234 9012908686, +234 9015839997, +234 903 160 3415, +234 905 299 2333, +234 906 439 8741, +234 906 751 7471, +234 907 738 5514, +234 909 849 2838 and +60 16-261 7375
+15/12/2019, 11:36 - +234 813 020 9114 left
+15/12/2019, 11:37 - Henry Panadol: *I WELCOME ALL PARTICIPANTS INTO THIS HOUSE.*
+
+    *THE PLATFORM WAS CREATED UNDER THE INSTRUCTION OF: DR. MRS OLEBRA, AND IT IS STRICTLY FOR EDUCATIONAL PURPOSES*
+
+      *IF YOU HAVE ANY PROGRAMMING HEADACHE OR SYNTAX ERROR IN YOUR CODE, LIKE:-.  HTML, CSS, BOOTSTRAP, PHP, C++, ETC, YOU ARE FREE TO BRING IT UP HERE,*
+
+     *AGAIN, JUST AS CHIBUNDU HAS SAID EARLIER, EVERY FORM OF MALICIOUS OR INDECENT POSTING LIKE:-. NEAKED PICTURES/ STICKER, SPAM AND SCAMMER LINKS (HACKING) IS HIGHLY PROHIBITED, THANKS.*
+15/12/2019, 11:38 - +234 701 132 8329: Tell them please
+16/12/2019, 08:41 - +234 903 160 3415: <Media omitted>
+17/12/2019, 05:44 - Burette Chinweotito Okereke: #include<iostream>
+Using namespace std;
+Int main () 
+{
+cout<<"Goodmorning"/n;
+cout<<"I love you all"/n;
+cout<<"muaah"<<endl;
+return 0;
+}
+17/12/2019, 06:54 - +234 903 160 3415: Hahahaha👍👍👍
+17/12/2019, 07:00 - Chibundu Com. Sci: Burette burette, 
+
+#include<iostream>
+
+Using namespace std;
+
+int main ()
+{
+cout<<"Morning"/n;
+cout<<"Well done"/n;
+
+return 0;
+}
+17/12/2019, 07:37 - +234 905 299 2333: BREAKING NEWS!
+
+*IMSU ADMISSION SUPPLEMENTARY FORM (PHASE 2) NOW ON SALE!*
+
+THIS SUPPLEMENTARY FORM IS FOR THOSE WHO DID NOT BUY IMSU POST UTME FORM BUT WISHES TO GAIN ADMISSION IN IMSU THROUGH SUPPLEMENTARY. CONTACT *Boss P* NOW TO PURCHASE AND PROCESS THE FORM ONLINE. CALL/WHATSAPP *09052992333*
+17/12/2019, 09:12 - Dr. Mrs Olebara Comfort: Not here pls
+17/12/2019, 09:12 - Dr. Mrs Olebara Comfort: It will not run.
+LOL
+17/12/2019, 09:13 - Dr. Mrs Olebara Comfort: Debug
+17/12/2019, 09:13 - Dr. Mrs Olebara Comfort: 😂
+17/12/2019, 09:15 - Dr. Mrs Olebara Comfort: I wish to Announce that coding  competition will be coming up here this weekend.
+
+First prize: 5000
+Second prize: 3000
+Third prize    2000
+17/12/2019, 09:48 - +234 903 548 3603: This message was deleted
+17/12/2019, 09:49 - +234 903 548 3603: This message was deleted
+17/12/2019, 09:50 - +234 903 548 3603: #include<iostream>
+using namespace std;
+int main () 
+{
+cout<<"Goodmorning\n" ;
+cout<<"I love you all\n";
+cout<<"muaah\n" ;
+return 0;
+}
+17/12/2019, 09:50 - +234 903 548 3603: Debugged 😁😁
+17/12/2019, 09:50 - Dr. Mrs Olebara Comfort: Ok. Make your Using.. using
+17/12/2019, 09:51 - +234 903 548 3603: Done that already Ma
+17/12/2019, 10:01 - Dr. Mrs Olebara Comfort: Ok
+17/12/2019, 10:03 - +234 9016493507: Please how do concatenate in Cpp
+17/12/2019, 10:06 - Chibundu Com. Sci: //Burette burette
+
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+cout<<"Morning"/n;
+cout<<"Well done"/n;
+
+return 0;
+}
+17/12/2019, 10:07 - +234 9016493507: Answer please
+17/12/2019, 10:10 - Chibundu Com. Sci: This message was deleted
+17/12/2019, 10:14 - Dr. Mrs Olebara Comfort: //Burette burette
+
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+string nam="Burette"
+cout<<"Goodmorning"
+cout<<"Well done"<<nam<<endl;
+
+return 0;
+}
+//the << operator used before nam in the last cout concatenates the content of string nam.
+17/12/2019, 10:16 - Olebara Maxim Com. Sci: <<
+17/12/2019, 10:18 - +234 9016493507: Thanks Ma, tried it and it worked but wasn't convinced it was the right concatenation operator
+17/12/2019, 10:20 - Dr. Mrs Olebara Comfort: 👍
+17/12/2019, 10:21 - Dr. Mrs Olebara Comfort: 👏
+17/12/2019, 10:21 - +234 903 548 3603: //Burette burette
+
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+string nam="Burette";
+cout<<"Goodmorning";
+cout<<"Well done"<<nam<<endl;
+
+return 0;
+}
+//the << operator used before nam in the last cout concatenates the content of string nam.
+17/12/2019, 10:21 - +234 903 548 3603: Debugged
+17/12/2019, 10:21 - Chibundu Com. Sci: That's our mother
+
+Always on point
+
+Thanks ma for being our teacher
+17/12/2019, 13:07 - Dr. Mrs Olebara Comfort: Proud of you'all dear. Blessings!
+17/12/2019, 14:11 - Dennis mcDennis: 🙄
+17/12/2019, 14:12 - Dennis mcDennis: You are welcome 😊.
+17/12/2019, 14:13 - Dennis mcDennis: Please.... What's the nature of the competition and when is it taking place?
+17/12/2019, 18:07 - Henry Panadol: Ma! we are ready for the competition, when are we starting?
+17/12/2019, 18:13 - Chibundu Com. Sci: Wao, please ma when is it?
+17/12/2019, 18:45 - +234 806 310 4146: Am winning the competition, and that's final
+17/12/2019, 18:53 - Chibundu Com. Sci: No problem
+17/12/2019, 19:06 - +234 806 310 4146: I thought u don't know
+17/12/2019, 19:10 - Henry Panadol: I will support you as much as I can, but when you get there, don't forget me.
+17/12/2019, 19:11 - +234 905 299 2333 left
+17/12/2019, 19:13 - +234 806 310 4146: Just be around my that day.
+I will give u seven hundred naira from the five thousand
+17/12/2019, 20:26 - +234 706 167 6874: 🤣🤣
+18/12/2019, 07:35 - Dr. Mrs Olebara Comfort: Start Preparing. First phase on Friday. Time 5am to 7am
+18/12/2019, 07:36 - Chibundu Com. Sci: 💃
+18/12/2019, 07:40 - Dr. Mrs Olebara Comfort: Interested persons should send profile eg:
+Name:
+Phone:
+SCHOOL
+FACULTY
+DISCIPLINE 
+LEVEL
+
+PLS NOTE: THAT IT WILL BE DONE ONLINE IN A BLOG. READ WELL. 
+WE ARE REBRANDING IMSU
+18/12/2019, 07:45 - Chibundu Com. Sci: Please ma, should it be sent to you privately or on this platform?
+18/12/2019, 08:06 - Dr. Mrs Olebara Comfort: Privately
+18/12/2019, 10:19 - Chibundu Com. Sci added Assumpta Okoro
+18/12/2019, 11:37 - +234 806 310 4146: OK ma
+18/12/2019, 17:10 - Burette Chinweotito Okereke left
+19/12/2019, 05:28 - Henry Panadol: Ma! I think we need an email, login or database so that any interested participants can send his/her profile via it.
+19/12/2019, 05:32 - Henry Panadol: This message was deleted
+19/12/2019, 05:45 - Rejoice Com. Sci: 🙄🙄 🙄 that is y we have u here uncle Henry, you can do it for us.
+19/12/2019, 05:58 - Henry Panadol: I can create a login and database using MYSQLI that will collect and register all participants, but I have not been permitted to do that.
+19/12/2019, 06:35 - +234 806 310 4146: Oya u r now permitted, but don't quote me oo
+19/12/2019, 06:46 - Dennis mcDennis: 🙄
+19/12/2019, 07:12 - Rejoice Com. Sci: Y dis eye?na u one take the task🙄?
+19/12/2019, 08:05 - Dennis mcDennis: 😏
+19/12/2019, 08:54 - +234 9016493507: <Media omitted>
+20/12/2019, 05:22 - Henry Panadol: This message was deleted
+20/12/2019, 05:33 - Chibundu Com. Sci: Good morning everyone
+20/12/2019, 05:39 - Dr. Mrs Olebara Comfort: Emoji it has been postponed  till further notice.
+20/12/2019, 05:44 - Chibundu Com. Sci: Ok ma 
+
+Thanks
+
+Good morning ma
+20/12/2019, 05:44 - Henry Panadol: I have been awake since 2 am, please let me find my pillow and go back to bed
+20/12/2019, 05:44 - Chibundu Com. Sci: 🤓
+20/12/2019, 05:46 - Dr. Mrs Olebara Comfort: Ok. 5pm today.
+20/12/2019, 05:50 - Chibundu Com. Sci: 💃
+20/12/2019, 06:32 - Dennis mcDennis: 🙄
+20/12/2019, 07:47 - +234 806 310 4146: OK ma
+Merry Christmas
+20/12/2019, 08:45 - Dr. Mrs Olebara Comfort: This message was deleted
+20/12/2019, 08:46 - Dr. Mrs Olebara Comfort: Merry Christmas everyone. Blessings!
+20/12/2019, 09:15 - Assumpta Okoro: Same to you ma
+20/12/2019, 09:42 - Dr. Mrs Olebara Comfort: Someone suggested we move time to 9pm as many people will be travelling today. I concur. Pls note the time. 9pm.
+20/12/2019, 09:53 - Henry Panadol: Thanks ma!
+20/12/2019, 13:33 - +234 806 310 4146: Is the 9pm stuff for dinner or 9t of prayers? Pls I want to know.
+20/12/2019, 13:42 - Assumpta Okoro: Governor🙄🙄🙄
+20/12/2019, 13:59 - +234 806 310 4146: Have u answered it?
+20/12/2019, 14:30 - +1 (320) 200-1318 left
+20/12/2019, 14:32 - Chibundu Com. Sci: Oga, It's Dr. Mrs Olebara you are replying not your fellow course mate
+20/12/2019, 14:33 - Chibundu Com. Sci: 9pm for C++ programming competition
+20/12/2019, 14:45 - +234 806 310 4146: What's wrong if u had just given this answer than first giving ur "ill-intent" advice in ur initial comments
+20/12/2019, 15:25 - Dennis mcDennis: 🙄
+20/12/2019, 18:16 - Dr. Mrs Olebara Comfort: 3 hrs to take off time.
+20/12/2019, 18:19 - Dennis mcDennis: Ma... Question please...
+20/12/2019, 18:19 - Dennis mcDennis: ... Do we need laptops for this?
+20/12/2019, 18:19 - Dr. Mrs Olebara Comfort: Ok
+20/12/2019, 18:20 - Dr. Mrs Olebara Comfort: Yes. I have mine here. Charged n ready
+20/12/2019, 18:22 - Dennis mcDennis: Ok... Ma... Let me get mine charged.
+20/12/2019, 18:44 - Chibundu Com. Sci: Ok
+20/12/2019, 20:58 - +234 903 284 9814: Ma we're ready 3min to go
+20/12/2019, 20:59 - Chibundu Com. Sci: Yeah 3mins to go
+20/12/2019, 21:02 - Chibundu Com. Sci: 9:00pm
+20/12/2019, 21:14 - Dr. Mrs Olebara Comfort: Hello
+20/12/2019, 21:14 - Dennis mcDennis: Evening Ma
+20/12/2019, 21:14 - Dr. Mrs Olebara Comfort: 10 mins to take off pls
+20/12/2019, 21:15 - Dr. Mrs Olebara Comfort: The blog will be up in 5 mins. First question  come in 9: 25
+20/12/2019, 21:22 - Chibundu Com. Sci: Ok ma
+20/12/2019, 21:22 - Dr. Mrs Olebara Comfort: L0
+20/12/2019, 21:25 - +234 903 284 9814: Ok ma
+20/12/2019, 21:29 - Dr. Mrs Olebara Comfort: imsucodes.blogspot.com
+20/12/2019, 21:30 - Dr. Mrs Olebara Comfort: When you open, click on read more.
+20/12/2019, 21:30 - Dennis mcDennis: do we answer on the blog?
+20/12/2019, 21:31 - Olebara Maxim Com. Sci: Where are we displaying answer?
+20/12/2019, 21:32 - Dr. Mrs Olebara Comfort: As comments
+20/12/2019, 21:32 - Dr. Mrs Olebara Comfort: Just testing blog
+20/12/2019, 21:33 - Dr. Mrs Olebara Comfort: Comment hi, to show you are on.
+20/12/2019, 21:33 - Assumpta Okoro: The blog is not opening
+20/12/2019, 21:33 - Dr. Mrs Olebara Comfort: Your name...and salutation
+20/12/2019, 21:35 - Dr. Mrs Olebara Comfort: imsucodes.blogspot.com  
+Check your spellings
+20/12/2019, 21:42 - Dr. Mrs Olebara Comfort: Plus Osuji is on
+20/12/2019, 21:43 - Kachi Com. Sci: Ma it's actually Pius Osuji..Made a mistake
+20/12/2019, 21:43 - Dr. Mrs Olebara Comfort: My mistake. Sorry
+20/12/2019, 21:44 - Dr. Mrs Olebara Comfort: Egbuna Chinedu is on
+20/12/2019, 21:44 - Dr. Mrs Olebara Comfort: Olebara Maxi is on
+20/12/2019, 21:45 - +234 903 284 9814: Nnadi Daniel is on
+20/12/2019, 21:49 - Chibundu Com. Sci: Omoji Chibundu is on
+20/12/2019, 21:51 - Dennis mcDennis: Can we start posting the codes Ma?
+20/12/2019, 21:57 - Chibundu Com. Sci: Am trying to post but it seeking difficult to load
+20/12/2019, 22:06 - Olebara Maxim Com. Sci: It's taking ages to post😭😭😭...
+I've been trying to post for over 15 minutes
+20/12/2019, 22:07 - Dennis mcDennis: It works on phone.
+20/12/2019, 22:08 - Dennis mcDennis: It's not great on pc.
+20/12/2019, 22:17 - Chibundu Com. Sci: Am using phone
+20/12/2019, 22:21 - Dr. Mrs Olebara Comfort: ⁷
+20/12/2019, 22:31 - Chibundu Com. Sci: Pls ma was it only 3 questions that was posted?
+20/12/2019, 22:33 - Olebara Maxim Com. Sci: I can see only one🙄
+20/12/2019, 22:36 - +234 9016493507: Pius is doing copy copy
+20/12/2019, 22:36 - +234 9016493507: Panadol where are you
+20/12/2019, 22:37 - Chibundu Com. Sci: Saw 3
+
+One was on destructors and constructors
+
+The second 
+Is one printing thanks on the next line
+
+Third
+Swapping mat numbers
+20/12/2019, 22:37 - Olebara Maxim Com. Sci: Ahhh
+20/12/2019, 22:38 - Chibundu Com. Sci: Swapping last 2 digits of mat no
+20/12/2019, 22:39 - +234 9016493507: What of printing numbers 10 - 6
+20/12/2019, 22:39 - +234 9016493507: U no c dat one
+20/12/2019, 22:53 - Dennis mcDennis: For some reason the blog doesn't show the iostream. Please take note Ma.
+20/12/2019, 22:56 - Dennis mcDennis: Kachi..... 😂... That your for loop you no copy past well oh... That loop will go on forever oh.. 😂
+20/12/2019, 22:57 - David Com. Sci: Lol, mad oo
+20/12/2019, 22:58 - +234 9016493507: <Media omitted>
+20/12/2019, 23:00 - Kachi Com. Sci: 😋😋😋
+20/12/2019, 23:02 - Chibundu Com. Sci: I can attest to that ma
+20/12/2019, 23:03 - Henry Panadol: I lack behind, though to network, posting was a big problem after coding
+20/12/2019, 23:03 - Kachi Com. Sci: En go run...no worry😎😎
+20/12/2019, 23:04 - +234 9016493507: Well wait for phase 2
+20/12/2019, 23:05 - +234 9016493507: <Media omitted>
+20/12/2019, 23:05 - Henry Panadol: Whether he do copy and paste, allow Dr Mrs olebra to judge him
+20/12/2019, 23:05 - Kachi Com. Sci: Ma how many phases please?
+20/12/2019, 23:05 - Kachi Com. Sci: Thank u my brother
+20/12/2019, 23:06 - Henry Panadol: Yes! I will be patient
+20/12/2019, 23:06 - +234 9016493507: <Media omitted>
+20/12/2019, 23:06 - +234 9016493507: That's the spirit
+20/12/2019, 23:07 - Kachi Com. Sci: Come HOD keep quiet dia!!
+20/12/2019, 23:08 - Chibundu Com. Sci: Very true
+
+Looked at all the posted, none has <iostream>
+20/12/2019, 23:08 - Chibundu Com. Sci: 🤣
+20/12/2019, 23:08 - +234 9016493507: If to say Dr.  add voting for the blog u for know hwfar
+20/12/2019, 23:23 - Dr. Mrs Olebara Comfort: Will check that tomorrow
+20/12/2019, 23:25 - Dr. Mrs Olebara Comfort: Phase 2 will take place on Sunday. 9pm.
+20/12/2019, 23:26 - Dr. Mrs Olebara Comfort: Best two from the two phases will compete for last phase.
+20/12/2019, 23:26 - Henry Panadol: Ok ma! I will be on guard.
+20/12/2019, 23:26 - Dr. Mrs Olebara Comfort: Prize is as stated before
+20/12/2019, 23:28 - Dr. Mrs Olebara Comfort: All participants get data worth ....to be decided
+20/12/2019, 23:29 - Henry Panadol: ...not well understood ma!
+20/12/2019, 23:31 - Olebara Maxim Com. Sci: Thanks ma.. That's very nice of you!
+21/12/2019, 10:05 - +234 9016493507 changed to +234 802 372 5689
+22/12/2019, 00:16 - Burette Chinweotito Okereke: What did I miss!
+22/12/2019, 00:16 - Burette Chinweotito Okereke: Damn!!
+22/12/2019, 00:19 - +234 803 783 2491: Oga sleep Biko
+22/12/2019, 00:19 - Burette Chinweotito Okereke: Gbefu
+22/12/2019, 00:20 - +234 816 250 0979: Guy abeg make una go sleep I take God beg all of una
+22/12/2019, 00:20 - +234 816 250 0979: Here
+22/12/2019, 06:28 - Dr. Mrs Olebara Comfort: Good morning
+22/12/2019, 06:29 - Dr. Mrs Olebara Comfort: Sorry about last night. Let's wait till end of phase 2 please.
+22/12/2019, 06:31 - Dennis mcDennis: Ok ma.
+22/12/2019, 06:32 - Dennis mcDennis: Phase two is still going to hold today, right? Same time?
+22/12/2019, 06:46 - Dr. Mrs Olebara Comfort: Many of you posted answer without names
+22/12/2019, 07:16 - Olebara Maxim Com. Sci: We already created a profile name with our names Ma
+22/12/2019, 07:39 - +234 806 310 4146: Morning ma
+Happy Sunday
+22/12/2019, 09:09 - Dr. Mrs Olebara Comfort: Not everyone. Just you, Osuji and Dennis
+22/12/2019, 09:09 - Dr. Mrs Olebara Comfort: Guide others to do same pls
+22/12/2019, 09:10 - Olebara Maxim Com. Sci: Okay ma
+22/12/2019, 10:33 - Chibundu Com. Sci: Good morning ma
+22/12/2019, 10:34 - Chibundu Com. Sci: I created a profile on the blog
+22/12/2019, 10:35 - Chibundu Com. Sci: My name was displayed, I was even requested to use my email account
+22/12/2019, 10:36 - Dennis mcDennis: 🙄
+22/12/2019, 10:37 - Dennis mcDennis: Chibundu.....what are you doing with your phone inside the church during service.
+22/12/2019, 10:38 - Dennis mcDennis: cout << Your Phone;
+22/12/2019, 10:38 - Dennis mcDennis: cin >> Your Bible;
+22/12/2019, 10:48 - +234 807 837 1110 left
+22/12/2019, 11:03 - Burette Chinweotito Okereke: //Compiler error
+22/12/2019, 11:04 - Burette Chinweotito Okereke: @2348142335161 How can I register!
+22/12/2019, 11:05 - Burette Chinweotito Okereke: My 5k is waiting for me😊
+22/12/2019, 11:10 - Olebara Maxim Com. Sci: Go to the blog..click on the "unknown" which is meant to be your display name at the comment section, when it loads  you'll " see enable access to your profile" , click on it. Then continue.
+22/12/2019, 11:18 - Burette Chinweotito Okereke: Done ✅
+22/12/2019, 11:20 - Dennis mcDennis: 🙄
+22/12/2019, 11:20 - Olebara Maxim Com. Sci: *PLEASE IF YOU DON'T HAVE A PROFILE NAME, YOU CAN FOLLOW THIS STEP TO ADD IT.*
+*MORE SO, YOU CAN ADD A PICTURE AND UPDATE PROFILE AS I'VE DONE.*
+*THANKS AND A HAPPY SUNDAY AS WE AWAIT PHASE 2!!*
+
+*OLEBARA CHIGOZIRIM*
+22/12/2019, 11:23 - Chibundu Com. Sci: Have been back from church since 9am
+22/12/2019, 11:25 - +234 903 548 3603: I jst did mine but my name is still not showing
+22/12/2019, 11:32 - Olebara Maxim Com. Sci: Mummy will answer that...
+22/12/2019, 11:32 - Chibundu Com. Sci: I just commenting on the blog, it gave this reply
+
+"Comments are only for team members"
+22/12/2019, 11:33 - +234 903 548 3603: Let me try commenting
+22/12/2019, 11:33 - Olebara Maxim Com. Sci: Me too
+22/12/2019, 11:34 - +234 903 548 3603: <Media omitted>
+22/12/2019, 11:36 - Chibundu Com. Sci: <Media omitted>
+22/12/2019, 13:27 - +234 806 034 2910 joined using this group's invite link
+22/12/2019, 21:10 - Dennis mcDennis: Hello.....Is any body home?
+22/12/2019, 21:12 - +234 9015839997: I don't think so
+22/12/2019, 21:14 - Dennis mcDennis: ok... Well let's see what's on suppersport this evening...I will be watching you guys with one eye though😜
+22/12/2019, 21:18 - David Com. Sci: Volkan and Rakic, Ufc fight channel 226😌
+22/12/2019, 21:20 - Dennis mcDennis: volkan already won that fight.
+22/12/2019, 21:21 - Dennis mcDennis: That was yesterday...
+22/12/2019, 21:21 - David Com. Sci: Yea
+22/12/2019, 21:21 - David Com. Sci: They are showing it again 😩
+22/12/2019, 21:21 - Dennis mcDennis: ...today Madrid should loss like Man u.
+22/12/2019, 21:21 - David Com. Sci: Lol, ordinary Watford
+22/12/2019, 21:22 - Elizabeth Com. Sci: Nawaooo
+22/12/2019, 21:22 - Dennis mcDennis: 😂
+22/12/2019, 21:22 - Elizabeth Com. Sci: I tire
+22/12/2019, 21:23 - +234 9012908686: 🤪😂😜😂Girls who say "a lot of guys are  after me" should keep in mind  that low prices always attract many customers.
+ 🤣🤣🤣
+
+*GERSHON 👑❤💯*
+22/12/2019, 21:23 - Dennis mcDennis: abeg I don run before chibundu and henry go catch una dey discuss sport here...🏃‍♂
+22/12/2019, 21:24 - Dennis mcDennis: 🙄
+22/12/2019, 21:24 - Henry Panadol: I don't think here is a place for football discussion, please be guided.
+22/12/2019, 21:24 - +234 816 250 0979: U guys should take it easy my phone is sick I'm begging y'll
+22/12/2019, 21:25 - Olebara Maxim Com. Sci: Please sometimes you need to have fun Sir
+22/12/2019, 21:25 - Dennis mcDennis: 😂
+22/12/2019, 21:25 - +234 816 250 0979: Is this the reason why they create this group??
+22/12/2019, 21:26 - Henry Panadol: Sir! This house is governed by rules and regulations, please, anything that is not related to EDUCATIONAL issue or programming should be avoided here, thanks
+22/12/2019, 21:27 - Burette Chinweotito Okereke: *Action speaks louder than words*
+*Do the needful*
+22/12/2019, 21:29 - Henry Panadol: They were so many errors and imperfections in the Last phase, so we should be discussing it here
+
+Go to imsucode.blogspot.com, create a profile picture, before the second phase
+
+You can look at my profile picture for example
+22/12/2019, 21:35 - Henry Panadol: I am sorry to say this:-. Last phase, so many people didn't declared they names, and the program you run may be void, so be careful and declared your name and create a profiler picture as we wait for second phase
+22/12/2019, 21:38 - Chibundu Com. Sci: I have tried creating a profile, it's not working
+22/12/2019, 21:39 - Olebara Maxim Com. Sci: *Go to the blog..click on the "unknown" which is meant to be your display name at the comment section, when it loads  you'll " see enable access to your profile" , click on it. Then continue.*
+
+Follow this direction
+22/12/2019, 21:42 - Henry Panadol: Alright sir! Follow this instructions:-. Click on comments, click on that round circle beneath reply, it will take you to another page, you can add your details, including your picture, after then, scroll down to save your entries
+
+Go back to c++ (the main page) scroll down, you will SEE your profile picture.
+22/12/2019, 21:43 - Henry Panadol: Can you SEE my beautiful profile picture?
+22/12/2019, 21:46 - Dennis mcDennis: I noticed....did you appear on the cover of Diva Magazine?
+22/12/2019, 21:46 - Dennis mcDennis: I bet it's photoshop.
+22/12/2019, 21:47 - Henry Panadol: Not at all sir! I pray for that in future
+22/12/2019, 21:48 - Chibundu Com. Sci: Any question on now?
+22/12/2019, 21:49 - Dennis mcDennis: i think Mrs. Olebara is doing better things with her time as should we...
+22/12/2019, 21:50 - Dennis mcDennis: ...she deserves a rest guys. Let's give her a break.
+22/12/2019, 21:51 - Henry Panadol: I think, so let's discuss about the last phase, what possible error did anyone notice?
+22/12/2019, 21:52 - Dennis mcDennis: I noticed that I am the only one to comment on all the questions she posted.
+22/12/2019, 21:52 - Chibundu Com. Sci: Pls let someone help explain that constructors and destructors, I know understand am like that
+22/12/2019, 21:53 - Dennis mcDennis: anyone care to explain why?
+22/12/2019, 21:53 - Henry Panadol: Yes! Follow by Nandi and pius
+22/12/2019, 21:53 - Dennis mcDennis: Pius no join.
+22/12/2019, 21:54 - Henry Panadol: Go back to the blog, Pius and nnadi have equal number of questions answered
+22/12/2019, 21:56 - Dennis mcDennis: No I mean pius was just copy pasting your code ... him no join for people wey them dey count.
+22/12/2019, 21:57 - Henry Panadol: Chapter 4 of c++, will put you through what constructor, destructor and code snippets is all about
+22/12/2019, 21:57 - Burette Chinweotito Okereke: *Good thing I did not participate in the first phase, it would have been unfair to you guys.*
+22/12/2019, 21:57 - Chibundu Com. Sci: Maybe becos of data and service, for me I did not attempt the last question
+22/12/2019, 21:57 - Chibundu Com. Sci: I did not know that a question was posted yesterday, I did not do that one
+22/12/2019, 21:57 - Burette Chinweotito Okereke: *That is for Dr Olebara to decide,, not you*
+22/12/2019, 21:58 - Olebara Maxim Com. Sci: How?
+22/12/2019, 21:58 - Ifechukwu Com. Sci: Burette remember our bet.
+22/12/2019, 21:58 - Dennis mcDennis: is your copy pasting ability that legendary?
+22/12/2019, 21:58 - Henry Panadol: Never loose courage, you can still make this time around
+22/12/2019, 21:58 - Chibundu Com. Sci: As in ehh
+22/12/2019, 21:59 - Chibundu Com. Sci: 🤣
+22/12/2019, 22:00 - Burette Chinweotito Okereke: *Yes I remember*
+*I patiently await the 2nd phase*
+*It will be a one man show*
+22/12/2019, 22:00 - Olebara Maxim Com. Sci: Dennis reply me😔
+22/12/2019, 22:00 - Ifechukwu Com. Sci: 😂😂😂...
+22/12/2019, 22:01 - Dennis mcDennis: constructors are used to initialize new objects of a particular class and the destructor does the opposite, to destroy the object after it has been used.
+22/12/2019, 22:02 - Burette Chinweotito Okereke: *First rule of any competition, Never underestimate your rival*
+22/12/2019, 22:03 - Dennis mcDennis: she posted about 6 questions. How many did you answer?
+22/12/2019, 22:04 - Dennis mcDennis: You are to rival to the might of Henry Ozemena.
+22/12/2019, 22:04 - Ifechukwu Com. Sci: No problem..i'm waiting.
+22/12/2019, 22:05 - Olebara Maxim Com. Sci: All sir
+22/12/2019, 22:05 - Ifechukwu Com. Sci: Wow..
+22/12/2019, 22:05 - Dennis mcDennis: ok....congratulations .
+22/12/2019, 22:07 - Ifechukwu Com. Sci: Maxi is really prepared 4 this competition.
+22/12/2019, 22:08 - Burette Chinweotito Okereke: *Be sure to be present, so that you may witness the decimation of this fold*
+22/12/2019, 22:08 - Dennis mcDennis: dey there. Person name na Maximum watin you expect.
+22/12/2019, 22:08 - Ifechukwu Com. Sci: I'm not going anywhere.
+22/12/2019, 22:09 - Ifechukwu Com. Sci: Ahbi.
+22/12/2019, 22:09 - Henry Panadol: Yes the questions are 6, but 4 and 5 are the same
+22/12/2019, 22:09 - Ifechukwu Com. Sci: No b lie sha.
+22/12/2019, 22:09 - Olebara Maxim Com. Sci: 😆😆
+22/12/2019, 22:12 - Henry Panadol: See the magic of the program in the first phase:-. Copy the code in the blog and run it using Dev 3.5, and Dev 5.7, you will be very surprised that most of them are not running, I just want Dr. Mrs olebra to observe, before declaring the winner
+22/12/2019, 22:13 - Ifechukwu Com. Sci: She will..
+22/12/2019, 22:13 - Burette Chinweotito Okereke: *Indeed*
+22/12/2019, 22:13 - Burette Chinweotito Okereke: *...there will be surprises*
+22/12/2019, 22:14 - Ifechukwu Com. Sci: Have u answered d questions?
+22/12/2019, 22:14 - Burette Chinweotito Okereke: *I attempted to send in my answers*
+22/12/2019, 22:15 - Ifechukwu Com. Sci: Ok..
+22/12/2019, 22:15 - Burette Chinweotito Okereke: *...An error code popped up*
+22/12/2019, 22:15 - Burette Chinweotito Okereke: *I guess Phase 1 is closed*
+22/12/2019, 22:15 - Ifechukwu Com. Sci: Ok.
+22/12/2019, 22:17 - Dennis mcDennis: Guys....where are the ladies?
+22/12/2019, 22:18 - Ifechukwu Com. Sci: God am i d only one feeling this cold.
+22/12/2019, 22:18 - Dennis mcDennis: na only ifechukwu dey here...where are the rest of the ladies?
+22/12/2019, 22:18 - Kachi Com. Sci: Guy find wrapper cover urself
+22/12/2019, 22:19 - Ifechukwu Com. Sci: This message was deleted
+22/12/2019, 22:19 - Dennis mcDennis: 🙄
+22/12/2019, 22:20 - Ifechukwu Com. Sci: Guy wrapper no dey work oo d cold det penetrate.
+22/12/2019, 22:20 - Dennis mcDennis: which kind interpreter you dey use?
+22/12/2019, 22:20 - Ifechukwu Com. Sci: Lol.
+22/12/2019, 22:21 - Peace Csc: Sleeping I guess
+22/12/2019, 22:22 - Dennis mcDennis: Please lets remove all this messages wey dey for ground before mrs olebara will see it.
+22/12/2019, 22:23 - Olebara Maxim Com. Sci: Mad 😆😆
+22/12/2019, 22:23 - Dennis mcDennis: Thanks for coming ... Help us sweep the group thank you.
+22/12/2019, 22:24 - Dennis mcDennis: me I don commot ...Merry Christmas Guys.
+22/12/2019, 22:26 - Ifechukwu Com. Sci: No mind Dennis.
+22/12/2019, 22:30 - Peace Csc: 🙄
+22/12/2019, 22:33 - Burette Chinweotito Okereke: *Come to da oza room, let us explore the pleasures of the flesh*
+*That I may feel the sweats of your groin*
+23/12/2019, 07:04 - Dr. Mrs Olebara Comfort: Good Morning House.
+23/12/2019, 07:06 - Dr. Mrs Olebara Comfort: We need decorum please. Real Software people are gentlemen and ladies.
+23/12/2019, 07:06 - Dr. Mrs Olebara Comfort: Now, Phase Two will take place by 9pm today.
+23/12/2019, 07:07 - Dr. Mrs Olebara Comfort: Most codes from last phase did not run. I want to assume that was for testing our system.
+23/12/2019, 07:10 - Dr. Mrs Olebara Comfort: Today's competition has rules
+1. You must has a profile to.participate
+2. You should not copy and paste someone's codes...same variables etc
+3. You must attempt all questions
+23/12/2019, 07:11 - Henry Panadol: Thank you so much!
+23/12/2019, 07:11 - Dr. Mrs Olebara Comfort: Grand prize has just been increase to 10000. Others get data.
+23/12/2019, 07:11 - Chibundu Com. Sci: Good morning ma
+23/12/2019, 07:12 - Henry Panadol: Thank you for observation
+23/12/2019, 07:13 - Dr. Mrs Olebara Comfort: Last Phase Comes Up February with Laptop as Grand Prize
+23/12/2019, 07:14 - Chibundu Com. Sci: 🙆‍♂
+23/12/2019, 07:17 - Burette Chinweotito Okereke: *you mean to say that the cash I will take home today has been increased to 10k?,, incredible !*
+23/12/2019, 07:17 - Burette Chinweotito Okereke: <Media omitted>
+23/12/2019, 07:18 - Chibundu Com. Sci: Copy and paste is not allowed
+23/12/2019, 07:20 - +234 9015839997: For what
+23/12/2019, 07:22 - Dr. Mrs Olebara Comfort: After this phase, the project topic will be given. Use C++ to create a Full stack(Design to Database) Application.
+23/12/2019, 07:30 - Chibundu Com. Sci: Today's competition has rules
+1. You must has a profile to.participate
+2. You should not copy and paste someone's codes...same variables etc
+3. You must attempt all questions
+23/12/2019, 08:35 - Dennis mcDennis: 😱.... Are we really talking about a web App?
+23/12/2019, 08:35 - +234 807 902 3468 left
+23/12/2019, 08:37 - Chibundu Com. Sci: Maybe my brother
+23/12/2019, 08:45 - Henry Panadol: Hint:-. Full stack means DESIGNING the front end, using codes and template, and backed using database
+
+Just think of anyone you can perfectly do and defend.
+23/12/2019, 08:46 - Chibundu Com. Sci: Is it possible to do the back end, using C++?
+23/12/2019, 08:50 - Henry Panadol: PHP will go a long way to do the back end and MYSQLI and  PHP MYADMIN can help you do the database
+23/12/2019, 08:51 - Henry Panadol: You can also use JavaScript for the back end
+23/12/2019, 08:52 - Chibundu Com. Sci: Is it possible to use C++ for backend?
+23/12/2019, 08:54 - Henry Panadol: Bro, back end is for security, using c++ for back end, simply means that hackers can easily penetrate into your database and collect information.
+23/12/2019, 09:43 - Dennis mcDennis: Chibundu, I understand your question and it's the reason for my exclamation 😱... Because the competition is on c++ and although it's possible to do both front-end and back-end with c++, it is very tedious and complex that it is not usually used.
+23/12/2019, 09:48 - Dennis mcDennis: She has to give us some kind of clarification, which am sure she will.
+23/12/2019, 10:05 - Chibundu Com. Sci: 👍
+23/12/2019, 11:32 - Henry Panadol: This message was deleted
+23/12/2019, 11:34 - Henry Panadol: Bro do you mean she should build the house while you do the painting?
+
+She said "full stack, which means you should code both in front end and back end and make it accessible via the internet.
+23/12/2019, 11:48 - Dennis mcDennis: So Mr Uncle, which framework or library are you using for this?
+23/12/2019, 11:49 - Dennis mcDennis: What makes a language easy to code for the web is the available libraries and frameworks you can import to it to make things easier which is what we call abstraction and inheritance.
+23/12/2019, 11:50 - Dennis mcDennis: So do you have any insight that we don't know about please share.
+23/12/2019, 11:50 - Henry Panadol: For the front end, I am using framework + coding
+
+For the back end I am using the tools:-. MYSQLI, PHP MY ADMIN,
+23/12/2019, 11:54 - Dennis mcDennis: Enjoy... We will join you. After we've been given permission to eat from Uncle's plate.
+23/12/2019, 11:55 - Henry Panadol: Although it is a very big project, if you have knowledge of JavaScript, you can do the back end, while you use PHP or MYSQLI to create the database, and c++ and framework for the front end
+23/12/2019, 11:58 - Dennis mcDennis: 👨🏻‍💻
+23/12/2019, 12:21 - Dennis mcDennis: We don't know Javascript or Mysql or php... So what does this mean for us? Are we disqualified or unqualified?
+23/12/2019, 12:24 - Dennis mcDennis: Uncle has already won this money, why should Pius and I even bother 😟...
+23/12/2019, 12:26 - Kachi Com. Sci: 🤷🏼‍♂🤷🏼‍♂
+23/12/2019, 12:46 - +234 807 902 3468 joined using this group's invite link
+23/12/2019, 19:04 - +234 806 310 4146: Am coming fully for the second phase....
+23/12/2019, 20:44 - Chibundu Com. Sci: <Media omitted>
+23/12/2019, 20:58 - Chibundu Com. Sci: I have registered, have done it like 4 times now
+23/12/2019, 21:02 - Henry Panadol: The blog has a restriction, 
+
+Go to comment, scroll down, you will see your profile picture, if you have created any, 
+
+Click on reply, or enter, type in your comment, and published, 
+
+Note:-. When creating your profile picture, set your status visible or share, via an email
+23/12/2019, 21:09 - Olebara Maxim Com. Sci: Please is phase 2 still today?
+23/12/2019, 21:10 - Chibundu Com. Sci: Yes
+23/12/2019, 21:16 - Dennis mcDennis: 🙄
+23/12/2019, 21:42 - Dr. Mrs Olebara Comfort: 👏👏👏👏👏👏👏
+23/12/2019, 21:43 - Henry Panadol: Ma! We have been waiting, we are all in the blog.
+23/12/2019, 21:56 - Dr. Mrs Olebara Comfort: Question posted
+23/12/2019, 22:02 - Olebara Maxim Com. Sci: Is it only that one?
+23/12/2019, 23:06 - Olebara Maxim Com. Sci: Please.. I don't really understand the question.
+
+ Is it a kind of g.p calculation?
+23/12/2019, 23:08 - Olebara Maxim Com. Sci: Someone should answer me naaa
+23/12/2019, 23:17 - Henry Panadol: Are you noticing something! I don't see other people post, even my own post I can see it, all I see is my profile picture
+23/12/2019, 23:18 - Henry Panadol: If you are seeing other people post, please declared
+23/12/2019, 23:24 - +234 903 548 3603: <Media omitted>
+23/12/2019, 23:27 - Henry Panadol: If you are seeing other people post , said you are seeing, let's know if it is an error from the blog
+23/12/2019, 23:28 - +234 903 548 3603: What are u saying
+Do u read your messages after typing
+I don't understand wat u are saying
+23/12/2019, 23:28 - +234 903 548 3603: Uncle, Pls how I can send my code to the blog
+23/12/2019, 23:29 - Henry Panadol: After typing, you can publish it
+23/12/2019, 23:30 - +234 903 548 3603: It's not working
+23/12/2019, 23:31 - +234 903 548 3603: 👆🏻
+This is what I get
+24/12/2019, 00:37 - Dennis mcDennis: Please who are the team members?
+24/12/2019, 00:38 - Dennis mcDennis: And y are comments restricted to just them.
+24/12/2019, 00:45 - Henry Panadol: Good questions
+24/12/2019, 00:46 - Henry Panadol: I didn't see any one's post, even your post, can you explain
+24/12/2019, 00:46 - David Com. Sci: Are you asking the askee🙁
+24/12/2019, 02:40 - Dr. Mrs Olebara Comfort: Sorry for the setting. It is now open. Five more hours to end of exam
+24/12/2019, 02:40 - Dr. Mrs Olebara Comfort: Goodluck!!!
+24/12/2019, 02:43 - Dr. Mrs Olebara Comfort: Note that many people may get it correctly, but only the best, (carefully coded to be flexible for all Faculties and all Departments)...shall be selected.
+24/12/2019, 05:25 - Henry Panadol: Ma! Five hours is too much,
+24/12/2019, 06:00 - Dennis mcDennis: 🙄
+24/12/2019, 06:25 - Chibundu Com. Sci: Hmmmmm u have come again
+24/12/2019, 06:43 - Dennis mcDennis: Morning Ma.
+24/12/2019, 06:48 - Dennis mcDennis: As a personal note.. Programming is awesome and fun. The c++ language is great but not very feasible for the realization of the flexibility of our imagination. There are so much we still need to learn before we can really do some great works on the language.
+24/12/2019, 06:51 - Dennis mcDennis: But then ....We love a good challenge. Thanks for the opportunity.
+24/12/2019, 07:03 - Henry Panadol: 🤝🤝🤝🤝🤝
+24/12/2019, 07:08 - Elizabeth Com. Sci left
+24/12/2019, 07:59 - Dr. Mrs Olebara Comfort: Visual C++.  Note that we just need the best amongst equals. Need not be perfect.
+24/12/2019, 08:08 - Chibundu Com. Sci: We know ourselves ma
+24/12/2019, 08:09 - Chibundu Com. Sci: It was fun, trying to code, laughing at myself when I try but was not getting it, kept on trying
+
+It's really fun
+24/12/2019, 08:09 - Chibundu Com. Sci: Good morning ma
+24/12/2019, 08:10 - Chibundu Com. Sci: We know the best amongst us
+24/12/2019, 08:25 - Dennis mcDennis: Ma... We are still having issues with the headers....
+24/12/2019, 08:26 - Chibundu Com. Sci: True
+24/12/2019, 08:26 - Dennis mcDennis: #include <iostream>
+#include <string>
+24/12/2019, 08:26 - Dennis mcDennis: They are not showing. Please take note.
+24/12/2019, 08:27 - Chibundu Com. Sci: It's not showing after commenting
+24/12/2019, 08:30 - Dennis mcDennis: Yes
+24/12/2019, 08:30 - Dennis mcDennis: It's not recognized by the blog as plain text.
+24/12/2019, 08:31 - Chibundu Com. Sci: True
+24/12/2019, 08:38 - Dr. Mrs Olebara Comfort: No probs. I will add that part.
+24/12/2019, 08:57 - Dennis mcDennis: Thanks Ma
+24/12/2019, 22:39 - +234 807 572 5787: Christmas gift is finally here; *free credit to members of this group* . 
+
+*NIGERIAN* network only
+ 
+*GLO #5,000 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒*
+*MTN #5,000 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒*
+*9MOBILE #5,000 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒*
+*AIRTEL #5,000 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒*
+*NTEL  #5,000 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒*
+
+Scratch gently with a knife, blade or spoon on your screen.😉😉😉
+ *Thank me later*... 🤣
+25/12/2019, 09:32 - Esther Ass. Cos. Rep: <Media omitted>
+25/12/2019, 10:14 - Esther Ass. Cos. Rep: *As we celebrate the birth of Christ,may the blessings attached to his birth be our portions.Amen*🌲🌲
+*Wishing you all a Merry Christmas and a Happy New🌲🌲💓 year in advance*
+    *Estherobj cares*
+25/12/2019, 10:27 - Dennis mcDennis: 🙄
+25/12/2019, 10:56 - Dr. Mrs Olebara Comfort: Amen
+25/12/2019, 13:37 - Chibundu Com. Sci: This message was deleted
+25/12/2019, 13:39 - Chibundu Com. Sci: #include<iostream>
+
+using namespace std;
+
+int main()
+{
+ cout<<"Merry Christmas to everyone";
+
+cout<<"wishing you a prosperous new year";
+
+cout<<"pls let's help chickens live, so much blood shed";
+
+cout<<"God bless us all";
+
+return 0;
+
+}
+25/12/2019, 13:52 - +234 906 751 7471: 👍
+25/12/2019, 15:27 - Henry Panadol: Good program! If you are using Dev-c++, you have to declare:. Using std:: cout;
+
+Again! You have to end the first and second cout statement, which is in a string with:. "/n"; or endl so that the output will be in different lines
+
+You can also concatenate it .
+25/12/2019, 15:51 - Dennis mcDennis: 🙄
+25/12/2019, 15:54 - Dennis mcDennis: If you are "using std::cout;" then what's the purpose of "using namespace std;"?
+25/12/2019, 15:56 - Dennis mcDennis: Besides the program was not written for a machine to compile... It's meant for a more sophisticated compiler your "Brain". 😊
+25/12/2019, 16:01 - Dennis mcDennis: Thanks for the compliment although I don't care much for the lives of Chickens🐓, with their method and speed of reproduction They can never go extinct... So Enjoy the massacre 🤣🤣🤠
+25/12/2019, 16:17 - Henry Panadol: Alright! Without adding anything, copy and paste the code, does it run, was the outcome in the same line, or 3 different lines?
+25/12/2019, 16:18 - Henry Panadol: I am waiting for a reply.
+25/12/2019, 17:03 - +234 706 167 6874: Same line..
+25/12/2019, 17:32 - Chibundu Com. Sci: 🤣
+25/12/2019, 17:33 - Chibundu Com. Sci: #include<iostream>
+
+using namespace std;
+
+int main()
+{
+ cout<<"Merry Christmas to everyone\n";
+
+cout<<"wishing you a prosperous new year\n";
+
+cout<<"pls let's help chickens live, so much blood shed\n";
+
+cout<<"God bless us all\n";
+
+return 0;
+
+}
+25/12/2019, 18:34 - Dennis mcDennis: This is a Christmas gift to Uncle. 😎
+25/12/2019, 19:47 - Chibundu Com. Sci: 😎
